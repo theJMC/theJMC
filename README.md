@@ -1,15 +1,22 @@
-### Hi there 👋
+# James (TheJMC)
+[Website](https://jamesmcc.co.uk)
 
-**theJMC/theJMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Whoami
+root
 
-Here are some ideas to get you started:
+## Who actually am I?
+I'm a teenage Cyber Security Enthusiast/Back end Programmer, who specialises in APIs, Microservices using Docker, and Linux System Administration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## My Repo's 
+Check Out my pinned Repos below, I believe them to be my best work!
 
+### My Languages (In order of strength)
+- Python 
+- NodeJS
+- HTML, CSS, JS
+- Docker (If that counts)
+
+### How to reach me
+Send an email to [james@jamesmcc.co.uk](mailto:james@jamesmcc.co.uk)
+
+Welcome to my corner of the internet! Hope you enjoy!
