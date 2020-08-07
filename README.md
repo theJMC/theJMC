@@ -17,6 +17,7 @@ Check Out my pinned :pushpin: Repos below, I believe them to be my best work!
 - :computer: My Website [jamesmcc.co.uk](http://jamesmcc.co.uk)
 
 ### My Profiles:
-- TryHackMe: [TheJMJC](https://tryhackme.com/p/TheJMC)
+- TryHackMe: [TheJMC](https://tryhackme.com/p/TheJMC)
+[THM Profile](https://tryhackme-badges.s3.amazonaws.com/TheJMC.png)
 
 Welcome to my corner of the internet! Hope you enjoy!
