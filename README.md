@@ -16,4 +16,8 @@ Check Out my pinned :pushpin: Repos below, I believe them to be my best work!
 - :email: Send an email to [james@jamesmcc.co.uk](mailto:james@jamesmcc.co.uk)
 - :computer: My Website [jamesmcc.co.uk](http://jamesmcc.co.uk)
 
+### My Profiles:
+- TryHackMe: [TheJMJC](https://tryhackme.com/p/TheJMC)
+[<script src="https://tryhackme.com/badge/13641"></script>]
+
 Welcome to my corner of the internet! Hope you enjoy!
