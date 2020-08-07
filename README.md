@@ -18,6 +18,5 @@ Check Out my pinned :pushpin: Repos below, I believe them to be my best work!
 
 ### My Profiles:
 - TryHackMe: [TheJMJC](https://tryhackme.com/p/TheJMC)
-[<img src="https://tryhackme-badges.s3.amazonaws.com/TheJMC.png" alt="TryHackMe">]
 
 Welcome to my corner of the internet! Hope you enjoy!
