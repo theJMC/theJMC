@@ -6,11 +6,12 @@ I'm a teenage Cyber Security Enthusiast/Back end Programmer from the UK :uk:, wh
 ### My Repo's 
 Check Out my pinned :pushpin: Repos below, I believe them to be my best work!
 
-### My Languages (In order of strength)
-- Python 
+### My Languages:
+- Python 3 
 - NodeJS
 - HTML, CSS, JS
 - Docker (If that counts)
+- Bash 
 
 ### How to reach me
 - :email: Send an email to [james@jamesmcc.co.uk](mailto:james@jamesmcc.co.uk)
