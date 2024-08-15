@@ -63,3 +63,6 @@ I'm currently completing a Summer Placement as a Cloud Solutions Architect @ <a 
 <!--START_SECTION:badges-->
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/fb5d82e1-deaa-4a87-9ba1-19415f5be0bd "GitHub Foundations")
 <!--END_SECTION:badges-->
+
+## Stats
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
