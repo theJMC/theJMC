@@ -62,4 +62,3 @@ I'm currently completing a Summer Placement as a Cloud Solutions Architect @ <a 
 ## Certs
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-
