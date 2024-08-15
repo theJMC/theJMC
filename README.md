@@ -65,4 +65,4 @@ I'm currently completing a Summer Placement as a Cloud Solutions Architect @ <a 
 <!--END_SECTION:badges-->
 
 ## Stats
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/theJMC?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
