@@ -3,11 +3,8 @@
 <img align="right" src="james-pixelart.jpg" width="300" style="margin-bottom: 50px;">
 <h3>> whoami</h3>
 TheJMC / James
-<h3>> cat ~/uni </h3>
-I've just fished my 2nd Year at <a src="https://bournemouth.ac.uk">Bournemouth University</a> doing Forensic Computing & Security
-<h3>> cat ~/job </h3>
-I'm currently completing a Summer Placement as a Cloud Solutions Architect @ <a src="https://microsoft.com">Microsoft</a>, and will be moving onto a Year in Industry with <a src="https://qinetiq.com">QinetiQ</a>
 <hr>
+
 
 ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Proton Mail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
